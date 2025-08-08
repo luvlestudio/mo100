@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "도윤 ♥ 가희의 모바일 청첩장",
         description: "2025년 9월 14일 일요일♡",
-        imageUrl: "https://i.imgur.com/9vFtpSU.png",
+        imageUrl: "https://i.imgur.com/2aNBVpN.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
